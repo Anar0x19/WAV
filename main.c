@@ -4,7 +4,6 @@
 #include <limits.h>
 
 #define HEADER_SIZE 44
-//#define WIDTH
 
 typedef struct {
     char chunkID[4];

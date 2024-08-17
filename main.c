@@ -102,15 +102,3 @@ int main(int argc, char *argv[]) {
 
     return 0;
 }
-
-/*
-#include <stdio.h>
-
-#define LEFT 1 
-#define RIGHT 1
-
-int main(){
-    printf("%d %d %d", RIGHT, LEFT, LEFT+1);
-    return 0;
-}
-*/
